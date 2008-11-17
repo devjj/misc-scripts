@@ -1,0 +1,1 @@
+stakeout.rb - A simple script that accepts either 'haml' or 'sass' as its first argument, followed by a list of files of the corresponding type.  Watches for updates to said files, and executes the proper command (either haml or sass) to rebuild the generated versions.
